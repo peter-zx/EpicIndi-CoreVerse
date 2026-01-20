@@ -1,0 +1,40 @@
+* text=auto eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.log text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+*.ini text eol=lf
+*.cfg text eol=lf
+*.conf text eol=lf
+*.env.example text eol=lf
+Dockerfile text eol=lf
+*.dockerfile text eol=lf
+*.dockerignore text eol=lf
+*.gitignore text eol=lf
+*.gitattributes text eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.xml text eol=lf
+*.svg text eol=lf
+*.sql text eol=lf
+*.lock text eol=lf
+*.lockfile text eol=lf
+yarn.lock text eol=lf
+package-lock.json text eol=lf
+poetry.lock text eol=lf
+requirements.txt text eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.zip binary
+*.exe binary
+*.dll binary

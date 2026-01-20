@@ -1,0 +1,30 @@
+# FastAPI
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+
+# Database
+sqlalchemy==2.0.35
+asyncpg==0.29.0
+alembic==1.13.2
+
+# Authentication
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.2.0
+
+# Alibaba Cloud OSS
+oss2==2.18.5
+
+# Tools
+pydantic==2.9.2
+pydantic-settings==2.5.2
+python-dotenv==1.0.1
+httpx==0.27.2
+aiofiles==24.1.0
+
+# Payment
+alipay-sdk-python==3.7.868
+
+# Redis Cache
+redis==5.1.1
